@@ -1,3 +1,17 @@
 /* TODO: Style the product card container */
-
+.productContainer{
+   background-color: aqua; 
+}
+.productTitle {
+    font-family: 'Courier New', Courier, monospace;
+}
+.productPrice{
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.productInStock{
+color: green;
+}
+.outOfStockClass{
+color: red;
+}
 /* TODO: Add special styling for out-of-stock products */
